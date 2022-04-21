@@ -1,0 +1,4 @@
+.env
+/node_modules
+/uploads/DTL-TP01.sql
+/uploads/temp.sql
