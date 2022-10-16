@@ -1,1 +1,1 @@
-console.log("this is a test to check jenkins github integration");
+console.log("test to check github sync jenkins");
